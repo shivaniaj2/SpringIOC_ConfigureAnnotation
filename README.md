@@ -14,7 +14,7 @@ SpringIOC_Bean_Configuration/
 │   ├── main/
 │   │   ├── MainApp.java
 │-- pom.xml
-       |`<!-- Spring Core <version>6.0.17--><!-- Spring Context <version>6.0.17-->
+      |`<!-- Spring Core <version>6.0.17--><!-- Spring Context <version>6.0.17-->
 
 ## 🛠 Technologies Used
 
